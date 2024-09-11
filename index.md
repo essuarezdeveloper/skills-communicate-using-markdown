@@ -15,6 +15,7 @@ var myVar = "Hello, world!";
 - [X] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
+- [ ] Otro tema a la lista
 
 
 ##### Ejemplo de una liga a imagen
