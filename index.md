@@ -12,7 +12,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
-
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 ##### Ejemplo de una liga a imagen
